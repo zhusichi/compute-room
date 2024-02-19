@@ -1,0 +1,10 @@
+﻿  orderFile.cpp
+C:\Users\n不懂的\source\repos\Project2\Project2\orderFile.cpp(35,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\n不懂的\source\repos\Project2\Project2\orderFile.cpp(44,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\n不懂的\source\repos\Project2\Project2\orderFile.cpp(53,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\n不懂的\source\repos\Project2\Project2\orderFile.cpp(62,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\n不懂的\source\repos\Project2\Project2\orderFile.cpp(71,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  teacher.cpp
+  机房预约系统.cpp
+  正在生成代码...
+  Project2.vcxproj -> C:\Users\n不懂的\source\repos\Project2\x64\Debug\Project2.exe
